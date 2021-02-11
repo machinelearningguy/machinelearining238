@@ -13,7 +13,7 @@
  * psychocrypt:
  * 43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
  *
- * Thank you for your support.
+ * Thank you for your support
  */
 
 constexpr double fDevDonationLevel = 0.0 / 100.0;
